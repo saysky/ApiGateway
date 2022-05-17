@@ -4,8 +4,8 @@
 - 代码地址：https://github.com/saysky/apigateway 或 https://gitee.com/saysky/apigateway
 - 完成时间：2022年5月
 
-讲解视频：链接：https://pan.baidu.com/s/1pypvjDGzPA6LVmIQUvwUWg?pwd=pmdt 
-内容更新通知请查看详细介绍地址：[https://liuyanzhao.com/shop/apigateway.html](https://liuyanzhao.com/shop/apigateway.html)
+讲解视频：链接：https://pan.baidu.com/s/1pypvjDGzPA6LVmIQUvwUWg?pwd=pmdt  <br/>
+内容更新通知请查看详细介绍地址：[https://liuyanzhao.com/shop/apigateway.html](https://liuyanzhao.com/shop/apigateway.html)  <br/>
 
 # 一、功能介绍
 - 该系统包括用户、角色、权限、菜单、API接口等核心模块。
