@@ -37,4 +37,3 @@ public class Api extends BaseEntity {
      */
     private String requestUrl;
 
-}

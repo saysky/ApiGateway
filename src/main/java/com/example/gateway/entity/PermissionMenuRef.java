@@ -27,4 +27,3 @@ public class PermissionMenuRef extends BaseEntity {
         this.permissionId = permissionId;
         this.menuId = menuId;
     }
-}

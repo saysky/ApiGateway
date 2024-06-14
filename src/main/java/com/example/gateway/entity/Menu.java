@@ -62,4 +62,3 @@ public class Menu extends BaseEntity {
      */
     @TableField(exist = false)
     private List<Menu> childMenus;
-}

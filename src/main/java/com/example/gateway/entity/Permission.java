@@ -25,4 +25,3 @@ public class Permission extends BaseEntity {
 
     @TableField(exist = false)
     private List<Menu> menuList;
-}
